@@ -2,12 +2,15 @@ body{
   background-color: green;
 }
 @font-face{
-  font-family: 'Handlee', cursive;
-  src: url(fonts/Handlee-Regular.ttf);
+  font-family: 'Handlee';
+  src: url("../fonts/Handlee-Regular.ttf");
 }
+
 .ff{
-  font-family: 'Handlee', cursive;
+  
+  font-family: 'Handlee';
 }
+
 
 /*social media icons*/
 
