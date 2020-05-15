@@ -1,0 +1,3 @@
+icon on mozila tab
+title view on mozila tab
+window color change in mozila tab
