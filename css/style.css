@@ -10,6 +10,40 @@ body{
   
   font-family: 'Handlee';
 }
+*{
+  font-family: 'Handlee';
+}
+#messenger{
+  
+  position: fixed;
+  bottom: 10%;
+  right: 5%;
+  z-index: 1;
+  width: 5%;
+  
+}
+@media only screen and (max-width:800px) {
+  #messenger{
+  
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    z-index: 1;
+    width: 15%;
+    
+  }
+}
+@media only screen and (max-width:600px) {
+  #messenger{
+  
+    position: fixed;
+    bottom: 10%;
+    right: 10%;
+    z-index: 1;
+    width: 15%;
+    
+  }
+}
 
 
 /*social media icons*/
