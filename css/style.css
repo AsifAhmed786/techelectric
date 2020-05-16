@@ -10,9 +10,7 @@ body{
   
   font-family: 'Handlee';
 }
-*{
-  font-family: 'Handlee';
-}
+
 #messenger{
   
   position: fixed;
@@ -43,6 +41,30 @@ body{
     width: 15%;
     
   }
+}
+.para{
+  line-height: 2px;
+}
+ul li{
+  color: white;
+  list-style-type: none;
+}
+ul{
+  color: white;
+  padding-left: 0;
+  
+}
+li a, p{
+  font-size:15px;
+}
+.categories a{
+ 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-transform: uppercase;
+  color: black;
+}
+.categories a:hover{
+  font-weight: bold;
 }
 
 
