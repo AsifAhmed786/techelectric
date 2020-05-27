@@ -74,3 +74,6 @@ li a, p{
   color: white !important;
   padding: 5px;
 }
+.offer{
+  border-radius: 100px !important;
+}
