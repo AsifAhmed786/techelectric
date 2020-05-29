@@ -77,5 +77,15 @@ li a, p{
 .offer{
   border-radius: 100px !important;
 }
+.bl{
+  display: block;
+
+}
 .list1 li{
   display: inline;
+}
+
+.div1{
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px grey;
+}
